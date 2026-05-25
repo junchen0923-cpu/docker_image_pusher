@@ -1,2 +1,3 @@
 nginx:latest
 mysql:5.7
+wordpress:6.4.3
